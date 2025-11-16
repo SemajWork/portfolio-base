@@ -1,0 +1,41 @@
+@keyframes slideLeft{
+    from{
+        opacity:0;
+        transform: translateX(100px);
+    }
+    to{
+        opacity:1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideRight{
+    from{
+        opacity:0;
+        transform: translateX(-100px);
+    }
+    to{
+        opacity:1;
+        transform: translateX(0);
+    }
+}
+
+.contact-button{
+    color: white;
+    text-decoration:none; 
+    font-size:1.2rem;
+    background: #121212;
+    width:8rem;
+    height:3rem;
+    border-radius:7px;
+    font-weight:bold;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border: 1px solid #181818;
+}
+
+.contact-button:hover{
+    color:black;
+    background: #646cff;
+}

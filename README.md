@@ -140,6 +140,6 @@ Build output is generated in the `dist/` directory.
 
 To Deploy on AWS:
 
-frontend build command: cd portfolio-base && npm install && npm run build 
-output directory: portfolio-base/dist/
+frontend build command: npm install && npm run build 
+output directory: dist/
 

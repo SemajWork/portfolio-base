@@ -2,6 +2,8 @@
 
 A modern, professional portfolio website showcasing your work, experience, and skills. Built with React and modern web technologies.
 
+Sample -> https://main.djxgrfb7l6cw7.amplifyapp.com/
+
 ## Tech Stack
 
 - **React** with TypeScript
